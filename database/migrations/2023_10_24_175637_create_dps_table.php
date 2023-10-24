@@ -13,6 +13,10 @@ return new class extends Migration
     {
         Schema::create('dps', function (Blueprint $table) {
             $table->id();
+            $table->string('titre')->unique();
+            $table->string('matricule')->unique();
+            $table->string('phone');
+            $table->string('photo');
             $table->timestamps();
         });
     }

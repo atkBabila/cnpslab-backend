@@ -9,5 +9,7 @@ class Dp extends Model
 {
     use HasFactory;
 
+    protected $fillable = ['titre','matricule','photo'];
+
     
 }
