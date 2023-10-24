@@ -1,10 +1,10 @@
 <p align="center"><a href="https://Cnpslab.com" target="_blank"><img src="https://raw.githubusercontent.com/Cnpslab/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/Cnpslab-logolockup-cmyk-red.svg" width="400" alt="Cnpslab Logo"></a></p>
 
 <p align="center">
-<a href="https://github.com/Cnpslab/framework/actions"><img src="https://github.com/Cnpslab/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/Cnpslab/framework"><img src="https://img.shields.io/packagist/dt/Cnpslab/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/Cnpslab/framework"><img src="https://img.shields.io/packagist/v/Cnpslab/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/Cnpslab/framework"><img src="https://img.shields.io/packagist/l/Cnpslab/framework" alt="License"></a>
+    <a href="https://github.com/Cnpslab/framework/actions"><img src="https://github.com/Cnpslab/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+    <a href="https://packagist.org/packages/Cnpslab/framework"><img src="https://img.shields.io/packagist/dt/Cnpslab/framework" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/Cnpslab/framework"><img src="https://img.shields.io/packagist/v/Cnpslab/framework" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/Cnpslab/framework"><img src="https://img.shields.io/packagist/l/Cnpslab/framework" alt="License"></a>
 </p>
 
 ## About Cnpslab
